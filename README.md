@@ -90,11 +90,6 @@ A native Android social platform featuring social feeds, search, user profiles, 
 ---
 
 ## 📚 Currently Learning
-
-- **Spring Boot & Spring Security**
-- **REST API Development**
-- **JPA / Hibernate**
-- **SQL & Database Design**
 - **Data Structures & Algorithms**
 - Core Computer Science Fundamentals
 
